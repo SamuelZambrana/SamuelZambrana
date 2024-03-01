@@ -15,4 +15,4 @@ SamuelZambrana
 
 ## Idiomas y herramientas:
 
-css3 git html5 javascript mongodb nodejs react Typescript Solidity
+CSS3 GIT HTML5 JavaScript MongoDB Nodejs React Typescript Solidity Python
