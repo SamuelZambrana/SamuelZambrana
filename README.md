@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola, soy Samuel.
 
-<!--
-**SamuelZambrana/SamuelZambrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Un apasionado desarrollador de Blockchain en España y en todo el Planeta.
 
-Here are some ideas to get you started:
+### Codificación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Todos mis proyectos están disponibles en https://github.com/SamuelZambrana?tab=repositories
+
+📫 Cómo contactarme samu-1994@hotmail.es
+
+📄 Conoce mis experiencias 
+
+Conectate conmigo:
+SamuelZambrana
+
+Idiomas y herramientas:
+oreja css3 expresar git html5 javascript mongodb nodejs reaccionar mecanografiado
