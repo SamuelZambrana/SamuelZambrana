@@ -13,5 +13,6 @@ Un apasionado desarrollador de Blockchain en España y en todo el Planeta.
 Conectate conmigo:
 SamuelZambrana
 
-Idiomas y herramientas:
-oreja css3 expresar git html5 javascript mongodb nodejs reaccionar mecanografiado
+## Idiomas y herramientas:
+
+css3 git html5 javascript mongodb nodejs react Typescript Solidity
