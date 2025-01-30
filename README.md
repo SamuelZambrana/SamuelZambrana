@@ -1,6 +1,6 @@
 ### Hola, soy Samuel.
 
-Un apasionado desarrollador de Blockchain en España y en todo el Mundo.
+Un apasionado desarrollador de  Web y Blockchain en España y en todo el Mundo.
 
 ### Codificación
 
