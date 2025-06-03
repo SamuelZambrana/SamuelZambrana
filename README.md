@@ -38,10 +38,10 @@ Explora mis proyectos en GitHub:
 🔗 **Repositorio principal:** [SamuelZambrana](https://github.com/SamuelZambrana?tab=repositories)
 
 ### 🌐 **Proyectos Web (Frontend & Backend)**
-- **Next.js Starter** → Proyecto base con Next.js para aplicaciones modernas.
-- **Vite.js Starter** → Configuración optimizada para desarrollo frontend con Vite.
+- **Proyect-Group-Front** → Frontend de nuestro proyecto grupal. App de recetas que está desarrollado con tecnologías modernas para ofrecer una experiencia de usuario fluida e intuitiva..
+- **RestFullAPI-17** → API RESTful desarrollada con las mejores prácticas modernas, incluyendo autenticación, manejo de errores y una estructura limpia para facilitar su escalabilidad.
 - **RecipesAPI** 🍽️ → API REST para gestionar recetas de cocina con autenticación y base de datos.
-- **b17-mod3-js-avance-practice** 🔗 → Proyecto en el que se obtiene información de una API de películas y se transforma en una página web interactiva que muestra todas las películas disponibles.
+- **b17-mod3-js-avance-practice** 🔗 → Proyecto Fronted en el que se obtiene información de una API de películas y se transforma en una página web interactiva que muestra todas las películas disponibles.
 - **SamuelZambrana.github.io** → Mi portafolio web con información sobre mis habilidades y experiencia realizado con tecnologias nativas.
 
 
