@@ -23,10 +23,17 @@ Aquí están las tecnologías con las que trabajo:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🔗 **Blockchain & Web3**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3C?style=flat&logo=ethereum&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger-2F3134?style=flat&logo=hyperledger&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3C?style=flat&logo=ethereum&logoColor=white)  
+![Solana](https://img.shields.io/badge/Solana-000000?style=flat&logo=solana&logoColor=white)  
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)  
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3C?style=flat&logo=ethereum&logoColor=white)  
+![Hardhat](https://img.shields.io/badge/Hardhat-FFA500?style=flat&logo=hardhat&logoColor=white)  
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat&logo=foundry&logoColor=white)  
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat&logo=hyperledger&logoColor=white)  
+![Hyperledger Besu](https://img.shields.io/badge/Hyperledger_Besu-2F3134?style=flat&logo=hyperledger&logoColor=white)  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)  
+
 
 ### 🛠️ **Herramientas**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
